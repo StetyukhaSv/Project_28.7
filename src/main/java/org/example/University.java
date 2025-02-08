@@ -1,11 +1,17 @@
 package org.example;
 
-public class University {
+import com.google.gson.annotations.SerializedName;
 
+public class University {
+@SerializedName("universityId")
     String id;
+@SerializedName("universityName")
     String fullName;
+@SerializedName("universityShortName")
     String shortName;
+@SerializedName("foundation")
     int yearOfFoundation;
+@SerializedName("profile")
     StudyProfile mainProfile;
 
     public University() {
