@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6cfc4da8-97d9-4513-b780-b3b2b55e2c5c" name="Changes" comment="26.9. Project">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/JsonUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Comparator/StudentAvgExamScoreComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Comparator/StudentAvgExamScoreComparator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/University.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/University.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/XlsReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Xls/XlsReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StatisticsUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StatisticsUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StudyProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StudyProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Xls/XlsReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Xls/XlsReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Xls/XlsWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Xls/XlsWriter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,20 +37,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/IDEA_projects/Project_24.7/src/main/java/org/example&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/User/Desktop/IDEA_projects/Project_24.7/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/User/Desktop/IDEA_projects/Project_24.7/src/main/resources",
+    "onboarding.tips.debug.path": "C:/Users/User/Desktop/IDEA_projects/Project_24.7/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\IDEA_projects\Project_24.7\src\main\resources" />
       <recent name="C:\Users\User\Desktop\IDEA_projects\Project_24.7\src\main\java\org\example" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -96,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734789797833</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="26.9. Project">
+      <option name="closed" value="true" />
+      <created>1739018705345</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739018705345</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -11,6 +11,8 @@ public enum StudyProfile {
     TOURISM ("Туризм"),
     DESIGN ("Дизайн"),
     LINGUISTICS ("Лингвистика"),
+    PHYSICS("Физика"),
+    MATHEMATICS("Математика"),
     PERSONNEL_MANAGEMENT ("Управление персоналом");
 
     String profileName;

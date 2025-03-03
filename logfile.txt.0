@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-03-03T15:50:41.329909700Z</date>
+  <millis>1741017041329</millis>
+  <nanos>909700</nanos>
+  <sequence>0</sequence>
+  <logger>org.example.Main</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The application is running</message>
+</record>
+<record>
+  <date>2025-03-03T15:50:41.534363800Z</date>
+  <millis>1741017041534</millis>
+  <nanos>363800</nanos>
+  <sequence>1</sequence>
+  <logger>org.example.Xls.XlsReader</logger>
+  <level>INFO</level>
+  <class>org.example.Xls.XlsReader</class>
+  <method>readXlsStudents</method>
+  <thread>1</thread>
+  <message>Started reading in Excel format</message>
+</record>
+<record>
+  <date>2025-03-03T15:50:44.021915400Z</date>
+  <millis>1741017044021</millis>
+  <nanos>915400</nanos>
+  <sequence>2</sequence>
+  <logger>org.example.Xls.XlsReader</logger>
+  <level>INFO</level>
+  <class>org.example.Xls.XlsReader</class>
+  <method>readXlsStudents</method>
+  <thread>1</thread>
+  <message>Reading in Excel format completed</message>
+</record>
+<record>
+  <date>2025-03-03T15:50:44.039849Z</date>
+  <millis>1741017044039</millis>
+  <nanos>849000</nanos>
+  <sequence>3</sequence>
+  <logger>org.example.Xls.XlsReader</logger>
+  <level>INFO</level>
+  <class>org.example.Xls.XlsReader</class>
+  <method>readXlsUniversities</method>
+  <thread>1</thread>
+  <message>Started reading in Excel format</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-03-03T15:55:17.859672400Z</date>
+  <millis>1741017317859</millis>
+  <nanos>672400</nanos>
+  <sequence>0</sequence>
+  <logger>org.example.Main</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The application is running</message>
+</record>
+<record>
+  <date>2025-03-03T15:55:17.904553Z</date>
+  <millis>1741017317904</millis>
+  <nanos>553000</nanos>
+  <sequence>1</sequence>
+  <logger>org.example.Xls.XlsReader</logger>
+  <level>INFO</level>
+  <class>org.example.Xls.XlsReader</class>
+  <method>readXlsStudents</method>
+  <thread>1</thread>
+  <message>Started reading in Excel format</message>
+</record>
+<record>
+  <date>2025-03-03T15:55:18.511928300Z</date>
+  <millis>1741017318511</millis>
+  <nanos>928300</nanos>
+  <sequence>2</sequence>
+  <logger>org.example.Xls.XlsReader</logger>
+  <level>INFO</level>
+  <class>org.example.Xls.XlsReader</class>
+  <method>readXlsStudents</method>
+  <thread>1</thread>
+  <message>Reading in Excel format completed</message>
+</record>
+<record>
+  <date>2025-03-03T15:55:18.516915300Z</date>
+  <millis>1741017318516</millis>
+  <nanos>915300</nanos>
+  <sequence>3</sequence>
+  <logger>org.example.Xls.XlsReader</logger>
+  <level>INFO</level>
+  <class>org.example.Xls.XlsReader</class>
+  <method>readXlsUniversities</method>
+  <thread>1</thread>
+  <message>Started reading in Excel format</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-03-03T15:57:03.371559900Z</date>
+  <millis>1741017423371</millis>
+  <nanos>559900</nanos>
+  <sequence>0</sequence>
+  <logger>org.example.Main</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The application is running</message>
+</record>
+<record>
+  <date>2025-03-03T15:57:03.414445500Z</date>
+  <millis>1741017423414</millis>
+  <nanos>445500</nanos>
+  <sequence>1</sequence>
+  <logger>org.example.Xls.XlsReader</logger>
+  <level>INFO</level>
+  <class>org.example.Xls.XlsReader</class>
+  <method>readXlsStudents</method>
+  <thread>1</thread>
+  <message>Started reading in Excel format</message>
+</record>
+<record>
+  <date>2025-03-03T15:57:04.053736100Z</date>
+  <millis>1741017424053</millis>
+  <nanos>736100</nanos>
+  <sequence>2</sequence>
+  <logger>org.example.Xls.XlsReader</logger>
+  <level>INFO</level>
+  <class>org.example.Xls.XlsReader</class>
+  <method>readXlsStudents</method>
+  <thread>1</thread>
+  <message>Reading in Excel format completed</message>
+</record>
+<record>
+  <date>2025-03-03T15:57:04.058722600Z</date>
+  <millis>1741017424058</millis>
+  <nanos>722600</nanos>
+  <sequence>3</sequence>
+  <logger>org.example.Xls.XlsReader</logger>
+  <level>INFO</level>
+  <class>org.example.Xls.XlsReader</class>
+  <method>readXlsUniversities</method>
+  <thread>1</thread>
+  <message>Started reading in Excel format</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-03-03T15:58:11.492589200Z</date>
+  <millis>1741017491492</millis>
+  <nanos>589200</nanos>
+  <sequence>0</sequence>
+  <logger>org.example.Main</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The application is running</message>
+</record>
+<record>
+  <date>2025-03-03T15:58:11.536471900Z</date>
+  <millis>1741017491536</millis>
+  <nanos>471900</nanos>
+  <sequence>1</sequence>
+  <logger>org.example.Xls.XlsReader</logger>
+  <level>INFO</level>
+  <class>org.example.Xls.XlsReader</class>
+  <method>readXlsStudents</method>
+  <thread>1</thread>
+  <message>Started reading in Excel format</message>
+</record>
+<record>
+  <date>2025-03-03T15:58:12.145296700Z</date>
+  <millis>1741017492145</millis>
+  <nanos>296700</nanos>
+  <sequence>2</sequence>
+  <logger>org.example.Xls.XlsReader</logger>
+  <level>INFO</level>
+  <class>org.example.Xls.XlsReader</class>
+  <method>readXlsStudents</method>
+  <thread>1</thread>
+  <message>Reading in Excel format completed</message>
+</record>
+<record>
+  <date>2025-03-03T15:58:12.150283300Z</date>
+  <millis>1741017492150</millis>
+  <nanos>283300</nanos>
+  <sequence>3</sequence>
+  <logger>org.example.Xls.XlsReader</logger>
+  <level>INFO</level>
+  <class>org.example.Xls.XlsReader</class>
+  <method>readXlsUniversities</method>
+  <thread>1</thread>
+  <message>Started reading in Excel format</message>
+</record>
+<record>
+  <date>2025-03-03T15:58:12.185190Z</date>
+  <millis>1741017492185</millis>
+  <nanos>190000</nanos>
+  <sequence>4</sequence>
+  <logger>org.example.Xls.XlsReader</logger>
+  <level>INFO</level>
+  <class>org.example.Xls.XlsReader</class>
+  <method>readXlsUniversities</method>
+  <thread>1</thread>
+  <message>Reading in Excel format completed</message>
+</record>
+<record>
+  <date>2025-03-03T15:58:12.187184600Z</date>
+  <millis>1741017492187</millis>
+  <nanos>184600</nanos>
+  <sequence>5</sequence>
+  <logger>org.example.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>org.example.StatisticsUtil</class>
+  <method>createStatisticsList</method>
+  <thread>1</thread>
+  <message>Statistics started</message>
+</record>
+<record>
+  <date>2025-03-03T15:58:12.210123500Z</date>
+  <millis>1741017492210</millis>
+  <nanos>123500</nanos>
+  <sequence>6</sequence>
+  <logger>org.example.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>org.example.StatisticsUtil</class>
+  <method>createStatisticsList</method>
+  <thread>1</thread>
+  <message>Statistics finished</message>
+</record>
+<record>
+  <date>2025-03-03T15:58:12.211121200Z</date>
+  <millis>1741017492211</millis>
+  <nanos>121200</nanos>
+  <sequence>7</sequence>
+  <logger>org.example.Xls.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.Xls.XlsWriter</class>
+  <method>statisticsWriter</method>
+  <thread>1</thread>
+  <message>Started writing in Excel format</message>
+</record>
+<record>
+  <date>2025-03-03T15:58:12.746355600Z</date>
+  <millis>1741017492746</millis>
+  <nanos>355600</nanos>
+  <sequence>8</sequence>
+  <logger>org.example.Xls.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.Xls.XlsWriter</class>
+  <method>statisticsWriter</method>
+  <thread>1</thread>
+  <message>Writing in Excel format completed</message>
+</record>
+<record>
+  <date>2025-03-03T15:58:12.746355600Z</date>
+  <millis>1741017492746</millis>
+  <nanos>355600</nanos>
+  <sequence>9</sequence>
+  <logger>org.example.Main</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The application is finished</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-03-03T16:00:09.808418800Z</date>
+  <millis>1741017609808</millis>
+  <nanos>418800</nanos>
+  <sequence>0</sequence>
+  <logger>org.example.Main</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The application is running</message>
+</record>
+<record>
+  <date>2025-03-03T16:00:09.861276800Z</date>
+  <millis>1741017609861</millis>
+  <nanos>276800</nanos>
+  <sequence>1</sequence>
+  <logger>org.example.Xls.XlsReader</logger>
+  <level>INFO</level>
+  <class>org.example.Xls.XlsReader</class>
+  <method>readXlsStudents</method>
+  <thread>1</thread>
+  <message>Started reading in Excel format</message>
+</record>
+<record>
+  <date>2025-03-03T16:00:10.500566600Z</date>
+  <millis>1741017610500</millis>
+  <nanos>566600</nanos>
+  <sequence>2</sequence>
+  <logger>org.example.Xls.XlsReader</logger>
+  <level>INFO</level>
+  <class>org.example.Xls.XlsReader</class>
+  <method>readXlsStudents</method>
+  <thread>1</thread>
+  <message>Reading in Excel format completed</message>
+</record>
+<record>
+  <date>2025-03-03T16:00:10.504556100Z</date>
+  <millis>1741017610504</millis>
+  <nanos>556100</nanos>
+  <sequence>3</sequence>
+  <logger>org.example.Xls.XlsReader</logger>
+  <level>INFO</level>
+  <class>org.example.Xls.XlsReader</class>
+  <method>readXlsUniversities</method>
+  <thread>1</thread>
+  <message>Started reading in Excel format</message>
+</record>
+<record>
+  <date>2025-03-03T16:00:10.541457200Z</date>
+  <millis>1741017610541</millis>
+  <nanos>457200</nanos>
+  <sequence>4</sequence>
+  <logger>org.example.Xls.XlsReader</logger>
+  <level>INFO</level>
+  <class>org.example.Xls.XlsReader</class>
+  <method>readXlsUniversities</method>
+  <thread>1</thread>
+  <message>Reading in Excel format completed</message>
+</record>
+<record>
+  <date>2025-03-03T16:00:10.542455700Z</date>
+  <millis>1741017610542</millis>
+  <nanos>455700</nanos>
+  <sequence>5</sequence>
+  <logger>org.example.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>org.example.StatisticsUtil</class>
+  <method>createStatisticsList</method>
+  <thread>1</thread>
+  <message>Statistics started</message>
+</record>
+<record>
+  <date>2025-03-03T16:00:10.548438800Z</date>
+  <millis>1741017610548</millis>
+  <nanos>438800</nanos>
+  <sequence>6</sequence>
+  <logger>org.example.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>org.example.StatisticsUtil</class>
+  <method>createStatisticsList</method>
+  <thread>1</thread>
+  <message>Statistics finished</message>
+</record>
+<record>
+  <date>2025-03-03T16:00:10.549436400Z</date>
+  <millis>1741017610549</millis>
+  <nanos>436400</nanos>
+  <sequence>7</sequence>
+  <logger>org.example.Xls.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.Xls.XlsWriter</class>
+  <method>statisticsWriter</method>
+  <thread>1</thread>
+  <message>Started writing in Excel format</message>
+</record>
+<record>
+  <date>2025-03-03T16:00:10.678092900Z</date>
+  <millis>1741017610678</millis>
+  <nanos>92900</nanos>
+  <sequence>8</sequence>
+  <logger>org.example.Xls.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.Xls.XlsWriter</class>
+  <method>statisticsWriter</method>
+  <thread>1</thread>
+  <message>Writing in Excel format completed</message>
+</record>
+<record>
+  <date>2025-03-03T16:00:10.679090900Z</date>
+  <millis>1741017610679</millis>
+  <nanos>90900</nanos>
+  <sequence>9</sequence>
+  <logger>org.example.Main</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The application is finished</message>
+</record>
+</log>
